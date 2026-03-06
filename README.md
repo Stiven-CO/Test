@@ -1,2 +1,6 @@
-# Test
-Realizo prueba y lo uso como entorno virtual
+# Entorno de prueba 
+**Objetivo**
+
+- Realizo prueba y lo uso como entorno virtual
+
+**Estructura :**
